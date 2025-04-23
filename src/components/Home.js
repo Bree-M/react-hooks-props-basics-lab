@@ -1,5 +1,6 @@
 import React from "react";
 
+
 function Home({name,city}) {
   return (
     <div id="home">
